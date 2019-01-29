@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==0.1.10
 appnope==0.1.0
 astropy==2.0.3
@@ -87,3 +88,9 @@ wcwidth==0.1.7
 Werkzeug==0.14.1
 widgetsnbextension==3.0.8
 wordcloud==1.4.1
+=======
+jupyterlab==0.35.4
+pandas==0.23.4
+matplotlib==3.0.2
+pandasql==0.7.3
+>>>>>>> a46f0462d90574c3c433dfeb418da3d8abce1261
