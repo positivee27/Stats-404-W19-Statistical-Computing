@@ -95,4 +95,9 @@ jupyterlab==0.35.4
 pandas==0.23.4
 matplotlib==3.0.2
 pandasql==0.7.3
+<<<<<<< HEAD
 >>>>>>> a46f0462d90574c3c433dfeb418da3d8abce1261
+=======
+scikit-learn==0.20.2
+joblib==0.13.1
+>>>>>>> e3ff096ea562b93b99af7189615e3fec29ff7297
